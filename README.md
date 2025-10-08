@@ -1,4 +1,4 @@
-# 💰Asset management with alternative data sets 🛰️🧠
+# 💰🔭Asset management with alternative data sets 🛰️🧠
 
 **NEW UPDATE: currently improving this project by adding the LLMs to obtain a structured, queryable view of financial trends.**
 
