@@ -2,7 +2,9 @@
 
 **NEW UPDATE: currently improving this project by adding the LLMs to obtain a structured, queryable view of financial trends.**
 
-This side project goes over multiple application examples in academic articles to see how media drived-data can help in predicting financial market variables (trading volume, risk, future stock returns). 
+This side project goes over multiple application examples in academic articles to see how media drived-data can help in predicting financial market variables (trading volume, risk, future stock returns). Explored how media-driven and alternative datasets (news, satellite, search trends) can predict market variables such as trading volume, volatility, and stock returns. Combined feature extraction, sentiment indicators, and regression models to generate actionable insights for portfolio management and market timing strategies.
+
+ 🚀 Tech stack: Python (pandas, scikit-learn), NLP, financial modeling, data visualization
 
 ## Objective:
 - Reproduce the result of the relevant papers, such as [Predicting Performance Using Consumer Big Data](https://scholar.harvard.edu/files/kenfroot/files/Predicting_Performance_Using_Consumer_Big_Data-Aug18.2021.pdf), etc; 
